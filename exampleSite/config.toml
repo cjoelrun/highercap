@@ -1,5 +1,5 @@
-title = "Hugo Serif Theme"
-baseURL = "www.example.com"
+title = "HigherCap"
+baseURL = "www.highercap.com"
 languageCode = "en-us"
 themesDir = "../.."
 theme = "hugo-serif-theme"
@@ -9,20 +9,20 @@ google_analytics_id = ""
 google_tag_manager_id = ""
 
   [params.logo]
-  standard = "images/logo.svg"
-  mobile = "images/logo-mobile.svg"
-  alt = "Serif - A Hugo Business Theme"
+  standard = "images/highercaplogo.png"
+  mobile = "images/highercap.png"
+  alt = "HigherCap - Business Solutions"
 
   [params.homepage_meta_tags]
-  meta_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
-  meta_og_title = "Hugo Serif Theme"
+  meta_description = "HigherCap helps maximize a business’s potential by bringing expert technology products and opinions to the table."
+  meta_og_title = "HigherCap"
   meta_og_type = "website"
-  meta_og_url = "https://hugo-serif.netlify.com"
+  meta_og_url = "https://www.highercap.com"
   meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-serif-theme/master/images/tn.png"
-  meta_og_description = "Serif is a modern business theme for Hugo. It contains content types for the archetypical business website. The theme is fully responsive, blazing fast and artfully illustrated."
+  meta_og_description = "Test what is this"
   meta_twitter_card = "summary"
-  meta_twitter_site = "@zerostaticio"
-  meta_twitter_creator = "@zerostaticio"
+  meta_twitter_site = "@highercap"
+  meta_twitter_creator = "@highercap"
 
 [[menu.main]]
 name = "Services"
