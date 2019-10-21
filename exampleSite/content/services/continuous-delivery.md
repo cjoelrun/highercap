@@ -3,17 +3,18 @@ title: Continous Delivery
 date: '2018-11-18T12:33:46+10:00'
 draft: false
 featured: true
-weight: 1
+weight: 2
 ---
 We know that there is a lot that goes into making production software. Building an agile platform for all your teams is a necessity to stay competitive. Building automated solutions is just the start to a enterprise workload.
 
 ## DevOps
 
-We know that there is a lot that goes into making production software. Observability is vital to an application. Our goal is the guide you to creating and deploying software that is effortlessly debuggable. 
+We know that there is a lot that goes into making production software. Observability is vital to an application. Our goal is the guide you to creating and deploying software that is effortlessly debuggable.
 
 * Logging and Metrics
 * Automated Deployment
-* 
+* Operational Mindset
+* Alerts and automated remediation
 
 ## Automated Infrastructure
 
